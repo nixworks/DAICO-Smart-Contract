@@ -1,3 +1,7 @@
+// Contract address: 0x97e09f641728b0f3b846f571F82Df280266fBCc4
+// Tokens are ready for distribution and will automatically be sent to the contributor upon receiving ETH.
+// Keep this private until launch to prevent users from getting an early contribution opportunity.
+
 pragma solidity ^0.4.18;
 
 
